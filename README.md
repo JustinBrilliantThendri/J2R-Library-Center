@@ -2,5 +2,6 @@ Tugas Akhir PWL
 
 Cara menjalankan web ini:
 - Import database "db_j2r_library_center" ke PHPMyAdmin.
-- Masukkan file project ini ke direktori D:/xampp/htdocs/j2r-library-center.
+- Masuk ke direktori D:/xampp/htdocs/.
+- Di dalam direktori tersebut, buatlah folder bernama "j2r-library-center" dan masukkan file project ke folder tersebut.
 - Run melalui XAMPP.
